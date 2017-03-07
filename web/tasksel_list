@@ -1,0 +1,44 @@
+manual	Manual package selection
+kubuntu-live	Kubuntu live CD
+lubuntu-live	Lubuntu live CD
+ubuntu-gnome-live	Ubuntu GNOME live CD
+ubuntu-live	Ubuntu live CD
+ubuntu-mate-live	Ubuntu MATE Live CD
+ubuntustudio-dvd-live	Ubuntu Studio live DVD
+ubuntustudio-live	Ubuntu Studio live CD
+xubuntu-live	Xubuntu live CD
+cloud-image	Ubuntu Cloud Image (instance)
+dns-server	DNS server
+edubuntu-desktop-gnome	Edubuntu desktop
+kubuntu-desktop	Kubuntu desktop
+kubuntu-full	Kubuntu full
+lamp-server	LAMP server
+lubuntu-core	Lubuntu minimal installation
+lubuntu-desktop	Lubuntu Desktop
+mail-server	Mail server
+mythbuntu-backend-master	Mythbuntu master backend
+mythbuntu-backend-slave	Mythbuntu slave backend
+mythbuntu-desktop	Mythbuntu additional roles
+mythbuntu-frontend	Mythbuntu frontend
+postgresql-server	PostgreSQL database
+samba-server	Samba file server
+tomcat-server	Tomcat Java server
+ubuntu-desktop	Ubuntu desktop
+ubuntu-gnome-desktop	Ubuntu GNOME desktop
+ubuntu-mate-cloudtop	Ubuntu MATE cloudtop
+ubuntu-mate-core	Ubuntu MATE minimal installation
+ubuntu-mate-desktop	Ubuntu MATE desktop
+ubuntu-usb	Ubuntu desktop USB
+ubuntustudio-audio	Audio recording and editing suite
+ubuntustudio-desktop	Ubuntu Studio desktop
+ubuntustudio-desktop-core	Ubuntu Studio minimal DE installation
+ubuntustudio-font-meta	Large selection of font packages
+ubuntustudio-graphics	2D/3D creation and editing suite
+ubuntustudio-photography	Photograph touchup and editing suite
+ubuntustudio-publishing	Publishing applications
+ubuntustudio-video	Video creation and editing suite
+virt-host	Virtual Machine host
+xubuntu-core	Xubuntu minimal installation
+xubuntu-desktop	Xubuntu desktop
+openssh-server	OpenSSH server
+server	Basic Ubuntu server
