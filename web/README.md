@@ -28,3 +28,8 @@ A simple user interface for installing tasks
 ```
 ./Tasksel_install.sh
 ```
+
+### Apache tomcat
+
+Root Foldr `/var/lib/tomcat8/webapps/`
+Conf Foldr `/etc/tomcat8`

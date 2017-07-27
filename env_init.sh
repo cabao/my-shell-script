@@ -8,6 +8,7 @@ echo "| This script will help you to install |"
 echo "| some useful tools. It contains :     |"
 echo "| ------------------------------------ |"
 echo "| curl | git | aptitude | Atom | Java8 |"
+echo "| net-tools | udpcast |                |"
 echo "| chrome | Vim | htop | Shutter |      |"
 echo "========================================"
 
@@ -47,6 +48,12 @@ if [ "${choice}" == "Y" ] || [ "${choice}" == "y" ] || [ "${choice}" == "yes" ] 
   echo "####### Install Vim htop shutter #######"
   echo "########################################"
   sudo apt-get install vim htop shutter -y
+
+  echo "########################################"
+  echo "####### Install net-tools udpcast ######"
+  echo "########################################"
+  sudo apt-get install net-tools udp-cast -y
+
   exit 0
 else
   echo "If you don't want to install all of them, modify it !"
