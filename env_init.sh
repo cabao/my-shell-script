@@ -52,7 +52,7 @@ if [ "${choice}" == "Y" ] || [ "${choice}" == "y" ] || [ "${choice}" == "yes" ] 
   echo "########################################"
   echo "####### Install net-tools udpcast ######"
   echo "########################################"
-  sudo apt-get install net-tools udp-cast -y
+  sudo apt-get install net-tools udpcast -y
 
   exit 0
 else
